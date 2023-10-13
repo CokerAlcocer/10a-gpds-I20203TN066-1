@@ -1,1 +1,3 @@
 const frontUno = () => {}
+
+const frontDos = () => {}
